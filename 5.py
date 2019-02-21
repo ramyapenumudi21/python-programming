@@ -1,0 +1,9 @@
+s=input()
+l=input()
+g=input()
+if(s>l&l>g)
+print(s)
+elif(l>s&s>g):
+  print(l)
+else:
+  print(g)
