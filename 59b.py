@@ -1,6 +1,6 @@
 l=int(input())
-count=0
-if(count>0):
-  count=count+1
+count=1
+while(count>0):
   l//10
+  count=count+1
   print(count)
