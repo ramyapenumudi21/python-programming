@@ -1,2 +1,2 @@
-s,l=input("Enter the String & value").split(' ') 
+s,l=input().split(' ') 
 print(s[:int(l)])
